@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dhohirpradana/npm-registry/issues"
   },
-  "homepage": "https://github.com/dhohirpradana/npm-registry#readme"
+  "homepage": "https://github.com/dhohirpradana/npm-registry#readme",
+  "publishConfig": {
+   "@dhohirpradana:registry": "https://npm.pkg.github.com"
+ }
 }
