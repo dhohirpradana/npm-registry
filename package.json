@@ -1,0 +1,19 @@
+{
+  "name": "@dhohirpradana/npm-registry",
+  "version": "1.0.0",
+  "description": "test npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhohirpradana/npm-registry.git"
+  },
+  "author": "dhohir pradana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhohirpradana/npm-registry/issues"
+  },
+  "homepage": "https://github.com/dhohirpradana/npm-registry#readme"
+}
