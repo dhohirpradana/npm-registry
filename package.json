@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dhohirpradana/npm-registry#readme",
   "publishConfig": {
-   "@dhohirpradana:registry": "https://npm.pkg.github.com"
- }
+    "registry": "https://npm.pkg.github.com"
+  }
 }
